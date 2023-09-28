@@ -12,6 +12,7 @@ inicio="Inicio"
 admin="Iniciar Sesion"
 cuidadoras="Sobre nosotros"
 sobre="Servicios"
+admin2="Registrarme"
 />
 <B_serv // llamamos el body del servicio que se importo anteriormnte
 titulo="SERVICIOS" // realizamos lo mismo que lrealizamos anteriormente

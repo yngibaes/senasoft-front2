@@ -6,11 +6,13 @@ function Inicio(){// creamos una funcion
     return(// agrgamos el return para que me retones los datos que van dentro del mismo 
     <div>
 <Header //llamamos al header que exportamos anteriormente
-titulo="Manzanas de Cuidado"// Se utilizan los props que estsamos creando en la pagian del header y se ponen el texto que quieron que nos aparecen en la pagina 
+// Se utilizan los props que estsamos creando en la pagian del header y se ponen el texto que quieron que nos aparecen en la pagina 
+
 inicio="Inicio"
 admin="Iniciar Sesion"
 cuidadoras="Sobre Nosotros "
 sobre="Servicios"
+admin2="Registrame"
 />
 <B_inicio  // llamamos el body del inicio  que se importo anteriormente
 

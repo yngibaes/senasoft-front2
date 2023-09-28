@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+ 
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .ola {
+    margin-left: 30%;
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border:solid 2px rgb(10, 10, 10);
+  }
+  
+  .ola2 {
+    width: 40%;
+    margin-left: 30%;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+
+ 
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .ola3{
+margin-left: 30%;
+  }
+  
+ 

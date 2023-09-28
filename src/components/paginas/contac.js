@@ -11,6 +11,7 @@ inicio="Inicio" // realizamos lo mismo que el codigo anterior, el props se usa p
 admin="Iniciar Sesion"
 cuidadoras="Sobre nosotros"
 sobre="Servicios"
+admin2="Registrame"
 />
 <B_contac // llamamos el body del contacto que se importo anteriormnte
 titulo="SOBRE NOSOTROS" // realizamos lo mismo que la linea de codigo 10
