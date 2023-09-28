@@ -7,13 +7,11 @@ import img2 from "./estilo/img/img2.webp"
 export default function B_inicio(){
     return(
         <div className="body1">
-            
             <div className="ini1">
             <img className="color2"/>
             <img className="img2" src={img} alt="ola"/>
             <h1 className="color"> ODAM</h1>
             <img className="img3" src={img1} alt="ola"/>
-         
             <img className="img4" src={img2} alt="ola"/>
          
         </div>  
